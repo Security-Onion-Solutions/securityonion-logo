@@ -1,0 +1,11 @@
+securityonion-logo (20120722-0ubuntu0securityonion2) xenial; urgency=medium
+
+  * rebuild for xenial 
+
+ -- Doug Burks <doug.burks@gmail.com>  Thu, 17 May 2018 17:58:21 -0400
+
+securityonion-logo (20120722-0ubuntu0securityonion1) precise; urgency=low
+
+  * Initial release
+
+ -- Doug Burks <doug.burks@gmail.com>  Sun, 22 Jul 2012 15:25:09 -0400
